@@ -1,0 +1,13 @@
+def inp_num(num):
+    print(num, end='')
+inp_num(8)
+inp_num(8)
+inp_num(0)
+inp_num(0)
+inp_num(5)
+inp_num(5)
+inp_num(5)
+inp_num(3)
+inp_num(5)
+inp_num(3)
+inp_num(5)
